@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="assets/IMG_20220122_104924.jpg" alt="Autofilterv5">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Autofilterv5</b>
 </h1>
 
 
