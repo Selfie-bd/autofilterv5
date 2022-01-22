@@ -5,19 +5,6 @@
   <b>Autofilterv5</b>
 </h1>
 
-<p align="center">
-  <img src="Pg/Thanks" alt="Thanks">
-</p>
-
-[![Stars](https://img.shields.io/github/stars/Selfie-bd/autofilterv5?style=flat-square&color=yellow)](https://github.com/Selfie-bd/autofilterv5/stargazers)
-[![Forks](https://img.shields.io/github/forks/Selfie-bd/autofilterv5?style=flat-square&color=orange)](https://github.com/Selfie-bd/autofilterv5/fork)
-[![Size](https://img.shields.io/github/repo-size/Selfie-bd/autofilterv5?style=flat-square&color=green)](https://github.com/Selfie-bd/autofilterv5/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Selfie-bd/autofilterv5)   
-[![Contributors](https://img.shields.io/github/contributors/Selfie-bd/autofilterv5?style=flat-square&color=green)](https://github.com/Selfie-bd/autofilterv5/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Selfie-bd/autofilterv5/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Selfie-bd/autofilterv5.svg)](https://stars.medv.io/Selfie-bd/autofilterv5)
-
-
 ## Features
 
 - [⌬] Auto Filter
@@ -71,44 +58,13 @@ pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
 python3 bot.py
 </pre>
-</p>
-</details>
 
-
-## Commands
-```
-• /logs - to get the rescent errors
-• /stats - to get status of files in db.
-* /filter - add manual filters
-* /filters - view filters
-* /connect - connect to PM.
-* /disconnect - disconnect from PM
-* /del - delete a filter
-* /delall - delete all filters
-* /deleteall - delete all index(autofilter)
-* /delete - delete a specific file from index.
-* /info - get user info
-* /id - get tg ids.
-* /imdb - fetch info from imdb.
-• /users - to get list of my users and ids.
-• /chats - to get list of the my chats and ids 
-• /index  - to add files from a channel
-• /leave  - to leave from a chat.
-• /disable  -  do disable a chat.
-* /enable - re-enable chat.
-• /ban  - to ban a user.
-• /unban  - to unban a user.
-• /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
-• /batch - to create link for multiple posts
-• /link - to create link for one post
-```
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdc)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdcbots)
 
 ## Credits 
-* [![autofilterv5-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/Selfiebd)
+* [![autofilterv5-Devs](https://img.shields.io/static/v1?label=autofilterv5&message=devs&color=critical)](https://telegram.dog/Selfiebd)
 
 
 ## Thanks to 
