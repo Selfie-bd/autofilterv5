@@ -58,7 +58,7 @@ pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
 python3 bot.py
 </pre>
-
+```
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdc)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdcbots)
