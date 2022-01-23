@@ -16,7 +16,7 @@ class script(object):
 - <a href=https://t.me/umlinks>@UmLinks</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and autofilterv5 will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. eva maria should have admin privillage.
