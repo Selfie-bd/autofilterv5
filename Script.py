@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Hai {}, I am Auto Filter bot 🚀 With Same more Features ✨"""
+    START_TXT = """Hello, I am Auto Filter bot 🚀 With Same more Features ✨"""
     HELP_TXT = """MORE INFORMATION IS HERE✨."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/umlinks>Umlinks</a>
