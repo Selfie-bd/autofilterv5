@@ -1,11 +1,6 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selfie-bd&repo=autofilterv5&theme=tokyonight)](https://github.com/selfie-bd/autofilterv5&bg_color=#24292F)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selfie-bd&repo=autofilterv5&theme=tokyonight)](https://github.com/selfie-bd/autofilterv5&bg_color=#24292F) 
 
-
-<p align="center">
-  <img src="assets/IMG_20220122_104924.jpg" alt="Autofilterv5">
-</p>
-<h1 align="center">
-  <b>Autofilterv5</b>
+ ## <b>Autofilterv5</b>
 </h1>
 
 ## Features
