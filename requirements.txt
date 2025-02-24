@@ -1,7 +1,7 @@
 git+https://github.com/subinps/pyrogram@inline-m
 tgcrypto
 pymongo[srv]==4.11.1
-motor==2.5.1
+motor==10.10.10.10
 marshmallow==3.14.1
 umongo==3.0.1
 requests
